@@ -1,0 +1,14 @@
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+
+# Build output
+dist/
+build/
+target/
+*.class
