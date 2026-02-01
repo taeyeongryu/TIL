@@ -9,6 +9,7 @@
 - `Algorithm/`: 알고리즘 문제 풀이 및 이론
 - `DevOps/`: Docker, Kubernetes, CI/CD 등
 - `Language/`: Java, Python, JavaScript 등 언어 관련
+    - [python-closure.md](Language/Python/python-closure.md): 파이썬 클로저(Closure)의 개념, 사용 이유 및 동작 원리 정리
 - `Network/`: 네트워크 이론 및 실습
 - `OS/`: 운영체제 관련
 - `Web/`: 프론트엔드, 백엔드 웹 기술
